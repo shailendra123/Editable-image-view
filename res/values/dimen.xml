@@ -1,0 +1,5 @@
+<resources>
+
+    <dimen name="footer_height">60dp</dimen>
+
+</resources>
